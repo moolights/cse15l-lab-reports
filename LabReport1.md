@@ -1,6 +1,6 @@
 # cd
 ## cd no arguments
-![alt text](cd_no_arg.PNG)
+![Image](cd_no_arg.PNG)
 
 - lecture1
 - When cd was run as a command with no arguments, the current working directory that I was in, 'lecture1', was changed to the home directory '~'
