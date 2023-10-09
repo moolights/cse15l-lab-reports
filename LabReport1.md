@@ -1,6 +1,7 @@
 # cd
 ## cd no arguments
 ![Image](cd_no_arg.PNG)
+![Image](https://github.com/moolights/cse15l-lab-reports/blob/main/cd_no_arg.PNG)
 
 - lecture1
 - When cd was run as a command with no arguments, the current working directory that I was in, 'lecture1', was changed to the home directory '~'
