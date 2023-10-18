@@ -4,7 +4,7 @@
 
 
 ## Test 2
-![Image](Test2.png)
+![Image](test2.png)
 
 ## Code
 ![Image](code.png)
