@@ -37,6 +37,12 @@
 ![Image](code.png)
 
 # Part 2
-
+## `ls` private key
+![Image](ls_private_key.png)
+## `ls` public key
+![Image](public_key.png)
+## Login Without Passphrase
+![Image](Login_no_passphrase.png)
 
 # Part 3
+What I learned in week 2 was how to start a web server using the command ssh and some login credentials. I had some idea of how servers worked but didn't have any knowledge on how to get them up and running. From week 3, I learned how to create private and public keys that allow me to login to a remote location without having to use a passphrase. I also learned how to manipulate a webpage using specific paths and code.
