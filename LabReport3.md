@@ -53,7 +53,7 @@ to store the current value then swap it with ``arr[arr.length - 1 - i]``
 *** Material was sourced using ChatGPT ***
 
 ### Citation
-``“command line options using find” prompt. ChatGPT, 30 October GPT-3.5, OpenAI, Day Month Year, chat.openai.com.``
+``“command line options using find” prompt. ChatGPT, 25 September GPT-3.5, OpenAI, 30 October 2023, chat.openai.com.``
 
 ## ``find -name``:
 ### Example 1
