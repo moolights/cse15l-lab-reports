@@ -42,4 +42,9 @@ static void reverseInPlace(int[] arr) {
     }
 }
 ```
+### Why this fix works
+This fix to the code works because, initially, the code would loop through the array and swap places but once reaching halfway
+through the array it would flip the places again. This just created the same array as we started with. The fix cuts the array
+in half and only loops through ``array.length / 2``. Then, because this a pass by value, I had to create a new ``temp`` variable 
+to store the current value then swap it with ``arr[arr.length - 1 - i]``
 
