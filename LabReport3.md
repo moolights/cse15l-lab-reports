@@ -20,6 +20,11 @@ public void testReverseInPlace() {
 ```
 
 ## The Symptom
-
+![Image](Symptom.png)
 
 ## The Bug
+### Before Fix:
+![Image](Test1.png)
+
+### After Fix:
+![Image](Test1.png)
