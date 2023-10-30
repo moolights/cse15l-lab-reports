@@ -121,11 +121,40 @@ technical/biomed/cc1547.txt
 technical/biomed/cc343.txt
 ```
 
-## ``find -type d``:
+## ``find -type``:
 ### Example 1
+This command prints all the directories under the ``\technical`` directory given the path of ``technical``. The ``d`` at the
+end of the command specifies ``directory``.
 
+Input:
+```ruby
+find technical -type d
+```
+Output:
+```
+technical
+technical/government
+technical/government/About_LSC
+technical/government/Env_Prot_Agen
+technical/government/Alcohol_Problems
+technical/government/Gen_Account_Office
+technical/government/Post_Rate_Comm
+technical/government/Media
+technical/plos
+technical/biomed
+technical/911report
+```
 ### Example 2
-
+This command specified a path directly to the ``media`` directory. By doing this, the only thing that was displayed was the absolute path 
+to the directory. i.e. ``technical/government/media``
+Input:
+```ruby
+find technical/government/media -type d
+```
+Output:
+```
+technical/government/media
+```
 ## ``find size``:
 ### Example 1
 
