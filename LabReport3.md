@@ -48,3 +48,24 @@ through the array it would flip the places again. This just created the same arr
 in half and only loops through ``array.length / 2``. Then, because this a pass by value, I had to create a new ``temp`` variable 
 to store the current value then swap it with ``arr[arr.length - 1 - i]``
 
+# Part 2 (Using ``find``)
+
+## ``find -name``:
+### Example 1
+
+### Example 2
+
+## ``find -type d``:
+### Example 1
+
+### Example 2
+
+## ``find size``:
+### Example 1
+
+### Example 2
+
+## ``find empty``:
+### Example 1
+
+### Example 2
