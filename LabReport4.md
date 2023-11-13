@@ -27,17 +27,17 @@
 ### Description:
 - To make the edits to fix the failing test I did the following:
 #### Steps:
-1. &rarr; &rarr; &rarr; &rarr; &rarr; &rarr; &rarr; &rarr; &rarr; &rarr; &rarr;
-2. &darr; &darr; &darr; &darr; &darr; &darr;
-3. `i`
-4. &rarr;
-5. `<backspace>`
-6. `2`
-7. `<ESC>`
-8. `<Shift> :`
-9. `w`
-10. `q`
-11. `<Enter>`
+1. &rarr; &rarr; &rarr; &rarr; &rarr; &rarr; &rarr; &rarr; &rarr; &rarr; &rarr; (Scroll to the right just above the line that contains the 1 that needs to be changed)
+2. &darr; &darr; &darr; &darr; &darr; &darr; (Move down to the line that needs to be changed)
+3. `i` (Go into INSERT mode)
+4. &rarr; (Move to the right of the character that needs to be deleted)
+5. `<backspace>` (Delete the character)
+6. `2` (Input 2)
+7. `<ESC>` (Go back to normal mode)
+8. `<Shift> :` (Enter the colon character)
+9. `w` (Write the changes to the java file)
+10. `q` (Needed to exit vim)
+11. `<Enter>` (Write and exit vim)
 
 After doing these steps, the file was fixed
 ## 5. Run New Test
