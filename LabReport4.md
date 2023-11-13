@@ -1,8 +1,10 @@
 # Lab Report 4
 
 ## 1. Logging in:
+![Image](lab4_login.png)
 
 ## 2. Cloning Fork:
+![Image](lab4_clone.png)
 
 ## 3. Running Tests
 
